@@ -10,4 +10,8 @@ members:
 - David1
 - Georage
 - to-rebaseTyler
+<<<<<<< HEAD
 - kim
+=======
+- park
+>>>>>>> conflict
