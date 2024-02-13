@@ -1,6 +1,6 @@
 team: Leopards
 ​
-manager: mainNora
+manager: Nora
 ​
 coach : Oscar
 
