@@ -1,6 +1,6 @@
 team: Leopards
 ​
-manager: Nora
+manager: conlict-1Nora
 ​
 coach : Oscar
 
