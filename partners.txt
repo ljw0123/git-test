@@ -9,8 +9,5 @@ members:
 - Stella
 - Anthony
 - Freddie
-<<<<<<< HEAD
-- Arachi
-=======
 - Maruch
->>>>>>> 64be854 (add maruchi)
+
